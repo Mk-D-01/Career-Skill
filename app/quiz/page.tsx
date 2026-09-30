@@ -2,6 +2,7 @@
 
 import { Suspense, useEffect, useState } from 'react'
 import { useSearchParams, useRouter } from 'next/navigation'
+import { CATEGORIES } from '@/lib/categories'
 
 const NAME_KEY = 'mcq_player_name'
 
@@ -16,8 +17,9 @@ type Question = {
 function QuizInner() {
   const params = useSearchParams()
   const router = useRouter()
-  const category = params.get('category') || 'All'
-  const count = params.get('count') || '10'
+
+  const [category, setCategory] = useState(params.get('category') || 'All')
+  const [count, setCount] = useState(Number(params.get('count')) || 10)
 
   const [questions, setQuestions] = useState<Question[] | null>(null)
   const [index, setIndex] = useState(0)
@@ -27,6 +29,12 @@ function QuizInner() {
   const [submitted, setSubmitted] = useState(false)
 
   useEffect(() => {
+    setQuestions(null)
+    setIndex(0)
+    setSelected(null)
+    setScore(0)
+    setFinished(false)
+    setSubmitted(false)
     fetch(`/api/questions?category=${encodeURIComponent(category)}&count=${count}`)
       .then((res) => res.json())
       .then(setQuestions)
@@ -44,17 +52,64 @@ function QuizInner() {
     }).catch(() => {})
   }, [finished, submitted, questions, score, category])
 
+  function restart() {
+    setQuestions(null)
+    setIndex(0)
+    setSelected(null)
+    setScore(0)
+    setFinished(false)
+    setSubmitted(false)
+    fetch(`/api/questions?category=${encodeURIComponent(category)}&count=${count}`)
+      .then((res) => res.json())
+      .then(setQuestions)
+  }
+
+  const topBar = (
+    <div className="flex flex-wrap items-center justify-between gap-2 text-sm">
+      <div className="flex flex-wrap gap-2">
+        <select
+          className="rounded border border-white/10 bg-[#1a1c33] px-2 py-1"
+          value={category}
+          onChange={(e) => setCategory(e.target.value)}
+        >
+          {CATEGORIES.map((c) => (
+            <option key={c} value={c}>
+              {c}
+            </option>
+          ))}
+        </select>
+        <select
+          className="rounded border border-white/10 bg-[#1a1c33] px-2 py-1"
+          value={count}
+          onChange={(e) => setCount(Number(e.target.value))}
+        >
+          {[5, 10, 15, 20].map((n) => (
+            <option key={n} value={n}>
+              {n} questions
+            </option>
+          ))}
+        </select>
+      </div>
+      <button onClick={() => router.push('/leaderboard')} className="text-brand-light underline">
+        Scoreboard
+      </button>
+    </div>
+  )
+
   if (!questions) {
-    return <p className="text-center text-gray-400">Loading questions...</p>
+    return (
+      <div className="flex flex-col gap-6">
+        {topBar}
+        <p className="text-center text-gray-400">Loading questions...</p>
+      </div>
+    )
   }
 
   if (questions.length === 0) {
     return (
-      <div className="text-center">
-        <p className="text-gray-400">No questions available for this category yet.</p>
-        <button onClick={() => router.push('/')} className="mt-4 text-brand-light underline">
-          Back home
-        </button>
+      <div className="flex flex-col gap-6">
+        {topBar}
+        <p className="text-center text-gray-400">No questions available for this category yet.</p>
       </div>
     )
   }
@@ -62,19 +117,22 @@ function QuizInner() {
   if (finished) {
     const pct = Math.round((score / questions.length) * 100)
     return (
-      <div className="flex flex-col items-center gap-4 text-center">
-        <h2 className="text-2xl font-bold">Quiz complete</h2>
-        <p className="text-4xl font-bold text-brand-light">
-          {score} / {questions.length}
-        </p>
-        <p className="text-gray-400">{pct}% correct</p>
-        <div className="mt-4 flex gap-3">
-          <button onClick={() => router.push('/')} className="rounded bg-white/10 px-4 py-2">
-            Play again
-          </button>
-          <button onClick={() => router.push('/leaderboard')} className="rounded bg-brand px-4 py-2">
-            View Scoreboard
-          </button>
+      <div className="flex flex-col gap-6">
+        {topBar}
+        <div className="flex flex-col items-center gap-4 text-center">
+          <h2 className="text-2xl font-bold">Quiz complete</h2>
+          <p className="text-4xl font-bold text-brand-light">
+            {score} / {questions.length}
+          </p>
+          <p className="text-gray-400">{pct}% correct</p>
+          <div className="mt-4 flex gap-3">
+            <button onClick={restart} className="rounded bg-brand px-4 py-2 font-semibold">
+              Play again
+            </button>
+            <button onClick={() => router.push('/leaderboard')} className="rounded bg-white/10 px-4 py-2">
+              View Scoreboard
+            </button>
+          </div>
         </div>
       </div>
     )
@@ -99,6 +157,8 @@ function QuizInner() {
 
   return (
     <div className="flex flex-col gap-6">
+      {topBar}
+
       <div className="flex justify-between text-sm text-gray-400">
         <span>{q.category}</span>
         <span>
