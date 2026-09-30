@@ -1,0 +1,2858 @@
+[
+  {
+    "id": "blood-1",
+    "category": "Blood Relations",
+    "question": "In a family of six people - A, B, C, D, E and F - spread over three generations, D (a salesman) is married to a lady teacher. The accountant is married to the lawyer. E, the accountant, is A's son and F's brother. C, the lawyer, is D's daughter-in-law. F is an unmarried engineer. A is B's grandmother. How is F related to E?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Cousin",
+      "Cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-2",
+    "category": "Blood Relations",
+    "question": "In a family of six people - A, B, C, D, E and F - spread over three generations, D (a salesman) is married to a lady teacher. The accountant is married to the lawyer. E, the accountant, is A's son and F's brother. C, the lawyer, is D's daughter-in-law. F is an unmarried engineer. A is B's grandmother. What is the profession of B?",
+    "options": [
+      "Teacher",
+      "Doctor",
+      "Lawyer",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-3",
+    "category": "Blood Relations",
+    "question": "In a family of six people - A, B, C, D, E and F - spread over three generations, D (a salesman) is married to a lady teacher. The accountant is married to the lawyer. E, the accountant, is A's son and F's brother. C, the lawyer, is D's daughter-in-law. F is an unmarried engineer. A is B's grandmother. What is the profession of A?",
+    "options": [
+      "Lawyer",
+      "Teacher",
+      "Doctor",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-4",
+    "category": "Blood Relations",
+    "question": "In a family of six people - A, B, C, D, E and F - spread over three generations, D (a salesman) is married to a lady teacher. The accountant is married to the lawyer. E, the accountant, is A's son and F's brother. C, the lawyer, is D's daughter-in-law. F is an unmarried engineer. A is B's grandmother. Which of the following is one of the married couples in the family?",
+    "options": [
+      "F and D",
+      "D and B",
+      "E and A",
+      "None of these"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-5",
+    "category": "Blood Relations",
+    "question": "M, N, O, P, Q and R are six members of a family travelling together. N is O's son, but O is not N's mother. M and O are a married couple. Q is O's brother. P is M's daughter. R is N's brother. How many pairs of siblings are there in the family?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-6",
+    "category": "Blood Relations",
+    "question": "M, N, O, P, Q and R are six members of a family travelling together. N is O's son, but O is not N's mother. M and O are a married couple. Q is O's brother. P is M's daughter. R is N's brother. How is P related to Q?",
+    "options": [
+      "Uncle",
+      "Nephew",
+      "Cousin",
+      "Niece"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-7",
+    "category": "Blood Relations",
+    "question": "A, B, C, D, E and F are six members of a family of three generations of married couples. F and C are D's mother and daughter, respectively. A is E's father-in-law. If D is A's daughter, who is D's spouse?",
+    "options": [
+      "B",
+      "E",
+      "C",
+      "Data inadequate"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-8",
+    "category": "Blood Relations",
+    "question": "A, B, C, D, E and F are six members of a family of three generations of married couples. F and C are D's mother and daughter, respectively. A is E's father-in-law. If E and C are a couple, then B is the father-in-law of whom?",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-9",
+    "category": "Blood Relations",
+    "question": "A, B, C, D, E and F are six members of a family of three generations of married couples. F and C are D's mother and daughter, respectively. A is E's father-in-law. How is F related to C?",
+    "options": [
+      "Mother",
+      "Grandmother",
+      "Daughter-in-law",
+      "Sister"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-10",
+    "category": "Blood Relations",
+    "question": "M, N, O, P, Q, R, S and T are eight members of a family across three generations, working as Engineer, Scientist, Artist, Dentist, Sportsman, Medical Representative, Teacher and Housewife. The teacher R is the maternal grandfather of the dentist N, but the dentist is not R's granddaughter. P, the maternal uncle of Q, is married to the artist. The sportsman M is the son-in-law of R's wife T, who is a housewife. One of the couples in the 2nd generation has two children. The scientist is N's mother and O's sister-in-law. How is the Sportsman related to Q?",
+    "options": [
+      "Uncle",
+      "Father",
+      "Brother",
+      "Grandfather"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-11",
+    "category": "Blood Relations",
+    "question": "M, N, O, P, Q, R, S and T are eight members of a family across three generations, working as Engineer, Scientist, Artist, Dentist, Sportsman, Medical Representative, Teacher and Housewife. The teacher R is the maternal grandfather of the dentist N, but the dentist is not R's granddaughter. P, the maternal uncle of Q, is married to the artist. The sportsman M is the son-in-law of R's wife T, who is a housewife. One of the couples in the 2nd generation has two children. The scientist is N's mother and O's sister-in-law. What is the profession of N's maternal uncle?",
+    "options": [
+      "Engineer",
+      "Medical Representative",
+      "Teacher",
+      "Cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-12",
+    "category": "Blood Relations",
+    "question": "M, N, O, P, Q, R, S and T are eight members of a family across three generations, working as Engineer, Scientist, Artist, Dentist, Sportsman, Medical Representative, Teacher and Housewife. The teacher R is the maternal grandfather of the dentist N, but the dentist is not R's granddaughter. P, the maternal uncle of Q, is married to the artist. The sportsman M is the son-in-law of R's wife T, who is a housewife. One of the couples in the 2nd generation has two children. The scientist is N's mother and O's sister-in-law. How many male members are there in the family?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "Cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-13",
+    "category": "Blood Relations",
+    "question": "M, N, O, P, Q, R, S and T are eight members of a family across three generations, working as Engineer, Scientist, Artist, Dentist, Sportsman, Medical Representative, Teacher and Housewife. The teacher R is the maternal grandfather of the dentist N, but the dentist is not R's granddaughter. P, the maternal uncle of Q, is married to the artist. The sportsman M is the son-in-law of R's wife T, who is a housewife. One of the couples in the 2nd generation has two children. The scientist is N's mother and O's sister-in-law. How is the Dentist related to O?",
+    "options": [
+      "Niece",
+      "Nephew",
+      "Brother",
+      "Sister"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-14",
+    "category": "Blood Relations",
+    "question": "M, N, O, P, Q, R, S and T are eight members of a family across three generations, working as Engineer, Scientist, Artist, Dentist, Sportsman, Medical Representative, Teacher and Housewife. The teacher R is the maternal grandfather of the dentist N, but the dentist is not R's granddaughter. P, the maternal uncle of Q, is married to the artist. The sportsman M is the son-in-law of R's wife T, who is a housewife. One of the couples in the 2nd generation has two children. The scientist is N's mother and O's sister-in-law. How is M related to P?",
+    "options": [
+      "Brother",
+      "Sister-in-law",
+      "Sister",
+      "Brother-in-law"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-15",
+    "category": "Blood Relations",
+    "question": "A, B, C, D, E, F and G are seven members of a family across three generations, with two married couples. G is the daughter-in-law of A and the sister-in-law of C. F is D's granddaughter and B's sister. E is C's brother and F's father. How many male members are there in the family?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "Cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-16",
+    "category": "Blood Relations",
+    "question": "A, B, C, D, E, F and G are seven members of a family across three generations, with two married couples. G is the daughter-in-law of A and the sister-in-law of C. F is D's granddaughter and B's sister. E is C's brother and F's father. How is F related to C?",
+    "options": [
+      "Sister",
+      "Niece",
+      "Nephew",
+      "Brother"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-17",
+    "category": "Blood Relations",
+    "question": "A, B, C, D, E, F and G are seven members of a family across three generations, with two married couples. G is the daughter-in-law of A and the sister-in-law of C. F is D's granddaughter and B's sister. E is C's brother and F's father. Who is the husband of G?",
+    "options": [
+      "E",
+      "D",
+      "F",
+      "Cannot be determined"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "blood-18",
+    "category": "Blood Relations",
+    "question": "Coding: A % B means A is the husband of B, A & B means A is the wife of B, and A * B means A is the mother of B. What does the relation P%Q*R&S mean?",
+    "options": [
+      "S is the nephew of P",
+      "S is the son of Q",
+      "R is the daughter-in-law of Q",
+      "S is the son-in-law of P"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-19",
+    "category": "Blood Relations",
+    "question": "Coding: A % B means A is the husband of B, A & B means A is the wife of B, and A * B means A is the mother of B. What does the relation W%X*Y*Z mean?",
+    "options": [
+      "Z is the grandson of X",
+      "Z is the daughter of Y",
+      "W is the grandfather of Z",
+      "None of these"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "blood-20",
+    "category": "Blood Relations",
+    "question": "Coding: A # B means A is the maternal uncle of B, A & B means A is the father of B, and A * B means A is the wife of B. If W*X&Y#Z, then how is W related to Z?",
+    "options": [
+      "Mother",
+      "Grandmother",
+      "Aunt",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-21",
+    "category": "Blood Relations",
+    "question": "Coding: A # B means A is the maternal uncle of B, A & B means A is the father of B, and A * B means A is the wife of B. If P&Q#R*S, then how is S related to Q's only sister?",
+    "options": [
+      "Son",
+      "Daughter",
+      "Brother",
+      "Son-in-law"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-22",
+    "category": "Blood Relations",
+    "question": "Coding: A = B means A is the son of B, A @ B means A is the father of B, A ^ B means A is the wife of B, and A * B means A is the mother of B. In the expression P=Q@R^S, which of the following is NOT correct?",
+    "options": [
+      "S is the son-in-law of Q",
+      "P is the brother-in-law of S",
+      "R is the sister-in-law of P",
+      "R is the daughter of Q"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "blood-23",
+    "category": "Blood Relations",
+    "question": "Coding: A = B means A is the son of B, A @ B means A is the father of B, A ^ B means A is the wife of B, and A * B means A is the mother of B. What does the relation X*Y^Z@A mean?",
+    "options": [
+      "A is the grandson of X",
+      "X is the mother of Z",
+      "A is the daughter of Y",
+      "X is the grandmother of A"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-24",
+    "category": "Blood Relations",
+    "question": "Coding: P + Q means P is the daughter of Q, P @ Q means P is the son of Q, P # Q means P is the brother of Q, P $ Q means P is the sister of Q, P - Q means P is the father of Q, and P / Q means P is the mother of Q. If A$B-C-D#E, then by how many generations are A and E separated?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "blood-25",
+    "category": "Blood Relations",
+    "question": "Coding: P + Q means P is the daughter of Q, P @ Q means P is the son of Q, P # Q means P is the brother of Q, P $ Q means P is the sister of Q, P - Q means P is the father of Q, and P / Q means P is the mother of Q. If D/A/E$B#C, then how is A related to C?",
+    "options": [
+      "Mother",
+      "Father",
+      "Sister",
+      "Brother"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "blood-26",
+    "category": "Blood Relations",
+    "question": "Coding: P + Q means P is the daughter of Q, P @ Q means P is the son of Q, P # Q means P is the brother of Q, P $ Q means P is the sister of Q, P - Q means P is the father of Q, and P / Q means P is the mother of Q. If E-A-B@D/C, then which of the following is false?",
+    "options": [
+      "E is C's grandfather",
+      "D is A's husband",
+      "B is C's brother",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-27",
+    "category": "Blood Relations",
+    "question": "Coding: A + B means A is B's mother, A - B means A is B's father, A x B means A is B's brother, and A / B means A is B's sister. Which of the following means X is the uncle of Z?",
+    "options": [
+      "YxX/U-Z",
+      "XxU+Y+Z",
+      "YxX/U+Z",
+      "XxU/Y-Z"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-28",
+    "category": "Blood Relations",
+    "question": "Coding: A + B means A is B's mother, A - B means A is B's father, A x B means A is B's brother, and A / B means A is B's sister. Which of the following means Z is the grandson of W?",
+    "options": [
+      "W-Y+Z/W",
+      "W-Y-Z",
+      "W+Y+ZxV",
+      "W/YxZ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "blood-29",
+    "category": "Blood Relations",
+    "question": "Coding: A + B means A is B's mother, A - B means A is B's father, A x B means A is B's brother, and A / B means A is B's sister. If V-W+X/Y-Z, then how is V related to Z?",
+    "options": [
+      "Great grandfather",
+      "Great grandson",
+      "Grandfather",
+      "Great grandmother"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "blood-30",
+    "category": "Blood Relations",
+    "question": "Coding: A + B means A is B's mother, A - B means A is B's father, A x B means A is B's brother, and A / B means A is B's sister. If X/WxY+V-UxZ, then which of the following is NOT true?",
+    "options": [
+      "X is V's aunt",
+      "Y is U's grandmother",
+      "V is Z's father",
+      "W is V's paternal uncle"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-31",
+    "category": "Blood Relations",
+    "question": "Looking at the photo of a boy, a lady said, \"He is the son of the daughter of my father-in-law's only son.\" How is the lady related to the boy's father?",
+    "options": [
+      "Mother",
+      "Mother-in-law",
+      "Grandmother",
+      "Aunt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-32",
+    "category": "Blood Relations",
+    "question": "P is the brother of Q. R is the sister of Q. S is the sister of R. How is Q related to S?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Brother or sister",
+      "Son"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "blood-33",
+    "category": "Blood Relations",
+    "question": "Suraj is the only son of the brother of the mother-in-law of Rakhi's husband. How is Rakhi's brother related to Suraj's father?",
+    "options": [
+      "Brother",
+      "Nephew",
+      "Son",
+      "Cousin"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-34",
+    "category": "Blood Relations",
+    "question": "O is the father of the only son of the daughter-in-law of B's sister. How is O related to B's father?",
+    "options": [
+      "Son",
+      "Brother",
+      "Father",
+      "Grandson"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-35",
+    "category": "Blood Relations",
+    "question": "Looking at a photograph of a boy, a woman said, \"He is the son of the daughter of the wife of my son-in-law.\" How is the boy related to the woman in the photograph?",
+    "options": [
+      "Great grandson",
+      "Grandson",
+      "Nephew",
+      "Uncle"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "blood-36",
+    "category": "Blood Relations",
+    "question": "A is the brother of the sister of B's father. How is B's mother related to A?",
+    "options": [
+      "Sister",
+      "Sister-in-law",
+      "Mother",
+      "Aunt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "blood-37",
+    "category": "Blood Relations",
+    "question": "Pointing to a boy, a woman said, \"He is the son of the sister of my husband's mother-in-law's daughter.\" How is the woman related to the boy?",
+    "options": [
+      "Mother",
+      "Aunt",
+      "Cousin",
+      "Cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-38",
+    "category": "Blood Relations",
+    "question": "P is the brother of Q, R is the mother of P, and S is the son of Q's husband. How is S related to P?",
+    "options": [
+      "Son",
+      "Nephew",
+      "Cousin",
+      "Cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-39",
+    "category": "Blood Relations",
+    "question": "Looking at the photograph of a lady, a man said, \"She is the wife of the brother of my daughter's mother's father-in-law.\" How is the man related to the lady?",
+    "options": [
+      "Nephew",
+      "Son",
+      "Uncle",
+      "Brother"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "blood-40",
+    "category": "Blood Relations",
+    "question": "Looking at the photograph of a girl, a man said, \"She is the only daughter of the mother-in-law of my wife's son.\" How is the man related to the girl in the photograph?",
+    "options": [
+      "Uncle",
+      "Father",
+      "Father-in-law",
+      "None of these"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "blood-41",
+    "category": "Blood Relations",
+    "question": "A is the father of B's sister and the brother of E. D, son-in-law of C, is the husband of E. How is B's mother related to C?",
+    "options": [
+      "Daughter",
+      "Sister",
+      "Daughter-in-law",
+      "Cousin"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "blood-42",
+    "category": "Blood Relations",
+    "question": "Looking at the photograph of a woman, a man said, \"I am the father-in-law of the wife of her maternal uncle.\" How is the man's only daughter related to the woman?",
+    "options": [
+      "Sister",
+      "Grandmother",
+      "Granddaughter",
+      "Mother"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-43",
+    "category": "Blood Relations",
+    "question": "Looking at the photograph of a boy, a man said, \"He is the son of my father's only daughter-in-law.\" How is the boy related to the man's wife?",
+    "options": [
+      "Brother",
+      "Nephew",
+      "Son",
+      "Cannot be determined"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "blood-44",
+    "category": "Blood Relations",
+    "question": "Samir is the husband of the sister of the son of Mrs. Gupta. How is Samir's son related to Mrs. Gupta's husband?",
+    "options": [
+      "Grandson",
+      "Nephew",
+      "Son",
+      "Son-in-law"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "blood-45",
+    "category": "Blood Relations",
+    "question": "Looking at the photograph of a man, a lady said, \"He is the husband of the mother of my husband's granddaughter.\" How is the lady related to the man?",
+    "options": [
+      "Mother",
+      "Mother-in-law",
+      "Sister-in-law",
+      "Cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "blood-46",
+    "category": "Blood Relations",
+    "question": "Looking at the photograph of a lady, a man said, \"She is the daughter of the son-in-law of my sister's mother.\" How is the lady related to the man?",
+    "options": [
+      "Daughter",
+      "Niece",
+      "Sister",
+      "Mother"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-1",
+    "category": "Seating Arrangement",
+    "question": "Ten people sit in two parallel rows of five. In row 1, A, B, C, D and E sit facing south. In row 2, P, Q, R, S and T sit facing north, each facing one member of the other row. B sits second to the left of D. The person facing B sits immediately right of R. P sits second to the left of R. Only two people sit between P and T. E is not an immediate neighbour of D. S does not face E. C neither faces R nor sits at an extreme end of the row. Who sits opposite (faces) E?",
+    "options": [
+      "P",
+      "R",
+      "S",
+      "Q"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-2",
+    "category": "Seating Arrangement",
+    "question": "Ten people sit in two parallel rows of five. In row 1, A, B, C, D and E sit facing south. In row 2, P, Q, R, S and T sit facing north, each facing one member of the other row. B sits second to the left of D. The person facing B sits immediately right of R. P sits second to the left of R. Only two people sit between P and T. E is not an immediate neighbour of D. S does not face E. C neither faces R nor sits at an extreme end of the row. Who among the following sits at the extreme end of a row?",
+    "options": [
+      "D",
+      "C",
+      "T",
+      "R"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-3",
+    "category": "Seating Arrangement",
+    "question": "Ten people sit in two parallel rows of five. In row 1, A, B, C, D and E sit facing south. In row 2, P, Q, R, S and T sit facing north, each facing one member of the other row. B sits second to the left of D. The person facing B sits immediately right of R. P sits second to the left of R. Only two people sit between P and T. E is not an immediate neighbour of D. S does not face E. C neither faces R nor sits at an extreme end of the row. Who sits in the middle of row 1?",
+    "options": [
+      "D",
+      "E",
+      "C",
+      "B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-4",
+    "category": "Seating Arrangement",
+    "question": "Nine persons - Y, R, U, S, W, T, Z, X and V - sit in a straight row facing north. One person sits between Y and R, who sits at one of the extreme ends. Four persons sit between Y and U. S sits immediately right of U. W sits third to the right of T, who doesn't sit adjacent to Y. Z sits second to the right of X. At least two persons sit to the left of V. How many persons sit to the left of V?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-5",
+    "category": "Seating Arrangement",
+    "question": "Nine persons - Y, R, U, S, W, T, Z, X and V - sit in a straight row facing north. One person sits between Y and R, who sits at one of the extreme ends. Four persons sit between Y and U. S sits immediately right of U. W sits third to the right of T, who doesn't sit adjacent to Y. Z sits second to the right of X. At least two persons sit to the left of V. Which of the following pairs has a different gap between its two members compared to the others: (T,S), (S,V), (V,Y), (W,Z)?",
+    "options": [
+      "T, S",
+      "S, V",
+      "V, Y",
+      "W, Z"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-6",
+    "category": "Seating Arrangement",
+    "question": "Nine persons - Y, R, U, S, W, T, Z, X and V - sit in a straight row facing north. One person sits between Y and R, who sits at one of the extreme ends. Four persons sit between Y and U. S sits immediately right of U. W sits third to the right of T, who doesn't sit adjacent to Y. Z sits second to the right of X. At least two persons sit to the left of V. Who sits second to the right of W?",
+    "options": [
+      "Y",
+      "X",
+      "S",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-7",
+    "category": "Seating Arrangement",
+    "question": "Ten persons sit in two parallel rows of five each. In row 1, P, Q, R, S and T sit facing south, and in row 2, A, B, C, D and E sit facing north (not necessarily in that order). Each of them likes a different colour among Blue, Red, Green, White, Orange, Pink, Black, Grey, Silver and Purple, and each member of a row faces a member of the other row. A sits second to the left of B, and neither of them sits at an extreme end of the row. P faces one of the immediate neighbours of B. R and T sit together and one of them is an immediate neighbour of P. D likes Green. T faces A. The one who likes Orange sits opposite Q, who likes Silver. C does not face P. Who does Q like?",
+    "options": [
+      "Green",
+      "Silver",
+      "Orange",
+      "Black"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-8",
+    "category": "Seating Arrangement",
+    "question": "Ten persons sit in two parallel rows of five each. In row 1, P, Q, R, S and T sit facing south, and in row 2, A, B, C, D and E sit facing north (not necessarily in that order). Each of them likes a different colour among Blue, Red, Green, White, Orange, Pink, Black, Grey, Silver and Purple, and each member of a row faces a member of the other row. A sits second to the left of B, and neither of them sits at an extreme end of the row. P faces one of the immediate neighbours of B. R and T sit together and one of them is an immediate neighbour of P. D likes Green. T faces A. The one who likes Orange sits opposite Q, who likes Silver. C does not face P. Who does D like?",
+    "options": [
+      "Green",
+      "Silver",
+      "Orange",
+      "Blue"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-9",
+    "category": "Seating Arrangement",
+    "question": "Eight persons - P, Q, R, S, T, U, V and W - sit in a row facing north. Each has a different number of houses, from 5 to 12. U has 12 houses. R has half the number of houses that P has. S sits immediately left of T, who has 3 more houses than R. U sits second from one of the ends. W sits second to the left of the one who has 5 houses. Exactly one person sits between W and U. V is not adjacent to W, and V has a prime number of houses. Working through these clues gives: P=10 houses, R=5 houses, T=8 houses, U=12 houses, Q=6 houses, S=9 houses, V=7 houses, W=11 houses, seated in the order (left to right) V, U, Q, W, P, R, S, T. How many houses does V have?",
+    "options": [
+      "11",
+      "10",
+      "5",
+      "7"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-10",
+    "category": "Seating Arrangement",
+    "question": "Eight persons - P, Q, R, S, T, U, V and W - sit in a row facing north. Each has a different number of houses, from 5 to 12. U has 12 houses. R has half the number of houses that P has. S sits immediately left of T, who has 3 more houses than R. U sits second from one of the ends. W sits second to the left of the one who has 5 houses. Exactly one person sits between W and U. V is not adjacent to W, and V has a prime number of houses. Working through these clues gives: P=10 houses, R=5 houses, T=8 houses, U=12 houses, Q=6 houses, S=9 houses, V=7 houses, W=11 houses, seated in the order (left to right) V, U, Q, W, P, R, S, T. What is the difference in the number of houses of P and Q?",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "3"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-11",
+    "category": "Seating Arrangement",
+    "question": "Eight persons - P, Q, R, S, T, U, V and W - sit in a row facing north. Each has a different number of houses, from 5 to 12. U has 12 houses. R has half the number of houses that P has. S sits immediately left of T, who has 3 more houses than R. U sits second from one of the ends. W sits second to the left of the one who has 5 houses. Exactly one person sits between W and U. V is not adjacent to W, and V has a prime number of houses. Working through these clues gives: P=10 houses, R=5 houses, T=8 houses, U=12 houses, Q=6 houses, S=9 houses, V=7 houses, W=11 houses, seated in the order (left to right) V, U, Q, W, P, R, S, T. What is the position of P with respect to T?",
+    "options": [
+      "4th to the left",
+      "2nd to the right",
+      "3rd to the left",
+      "2nd to the left"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-12",
+    "category": "Seating Arrangement",
+    "question": "Fourteen persons sit in two parallel rows of seven. In row 1, A, B, C, D, E, F and G sit facing south, while in row 2, P, Q, R, S, T, U and V sit facing north, and each member of a row faces a member of the other row. A faces the person who sits second to the left of P. Neither A nor S sits at any extreme end. P sits second to the left of S. F sits adjacent to A. B sits fourth to the right of C. R faces G. Q sits second to the left of the person who faces D. V sits immediately left of the person who faces E. T does not sit second to the left of V. Working through these clues places row 1 (left to right) as G, E, C, D, F, A, B and row 2 (left to right) as T, Q, U, P, V, S, R. Who sits immediately to the right of T?",
+    "options": [
+      "P",
+      "Q",
+      "V",
+      "S"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-13",
+    "category": "Seating Arrangement",
+    "question": "Fourteen persons sit in two parallel rows of seven. In row 1, A, B, C, D, E, F and G sit facing south, while in row 2, P, Q, R, S, T, U and V sit facing north, and each member of a row faces a member of the other row. A faces the person who sits second to the left of P. Neither A nor S sits at any extreme end. P sits second to the left of S. F sits adjacent to A. B sits fourth to the right of C. R faces G. Q sits second to the left of the person who faces D. V sits immediately left of the person who faces E. T does not sit second to the left of V. Working through these clues places row 1 (left to right) as G, E, C, D, F, A, B and row 2 (left to right) as T, Q, U, P, V, S, R. U faces the person who sits immediately to the right of whom?",
+    "options": [
+      "D",
+      "G",
+      "A",
+      "C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-14",
+    "category": "Seating Arrangement",
+    "question": "Fourteen persons sit in two parallel rows of seven. In row 1, A, B, C, D, E, F and G sit facing south, while in row 2, P, Q, R, S, T, U and V sit facing north, and each member of a row faces a member of the other row. A faces the person who sits second to the left of P. Neither A nor S sits at any extreme end. P sits second to the left of S. F sits adjacent to A. B sits fourth to the right of C. R faces G. Q sits second to the left of the person who faces D. V sits immediately left of the person who faces E. T does not sit second to the left of V. Working through these clues places row 1 (left to right) as G, E, C, D, F, A, B and row 2 (left to right) as T, Q, U, P, V, S, R. What is the position of A with respect to E?",
+    "options": [
+      "3rd to the right",
+      "4th to the right",
+      "2nd to the right",
+      "Immediate right"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-15",
+    "category": "Seating Arrangement",
+    "question": "Ten persons - A, B, C, D, E, F, G, H, I and J - sit in two parallel rows of five. A, B, C, D and E sit in row 1 facing south, and F, G, H, I and J sit in row 2 facing north, each facing a member of the other row. No two persons whose names begin with consecutive letters of the alphabet sit adjacent to each other in the same row. E sits at the extreme left end of row 1. A, who faces G, sits adjacent to C. J sits to the left of I. D sits exactly in the middle of row 1. H sits immediately to the right of F. Working through these clues places row 1 (left to right) as E, B, D, A, C and row 2 (left to right) as J, G, I, F, H. How many persons sit between G and H?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-16",
+    "category": "Seating Arrangement",
+    "question": "Ten persons - A, B, C, D, E, F, G, H, I and J - sit in two parallel rows of five. A, B, C, D and E sit in row 1 facing south, and F, G, H, I and J sit in row 2 facing north, each facing a member of the other row. No two persons whose names begin with consecutive letters of the alphabet sit adjacent to each other in the same row. E sits at the extreme left end of row 1. A, who faces G, sits adjacent to C. J sits to the left of I. D sits exactly in the middle of row 1. H sits immediately to the right of F. Working through these clues places row 1 (left to right) as E, B, D, A, C and row 2 (left to right) as J, G, I, F, H. Who sits in front of (faces) F?",
+    "options": [
+      "C",
+      "D",
+      "E",
+      "B"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-17",
+    "category": "Seating Arrangement",
+    "question": "Ten persons - A, B, C, D, E, F, G, H, I and J - sit in two parallel rows of five. A, B, C, D and E sit in row 1 facing south, and F, G, H, I and J sit in row 2 facing north, each facing a member of the other row. No two persons whose names begin with consecutive letters of the alphabet sit adjacent to each other in the same row. E sits at the extreme left end of row 1. A, who faces G, sits adjacent to C. J sits to the left of I. D sits exactly in the middle of row 1. H sits immediately to the right of F. Working through these clues places row 1 (left to right) as E, B, D, A, C and row 2 (left to right) as J, G, I, F, H. Who sits second to the right of the person facing H?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-18",
+    "category": "Seating Arrangement",
+    "question": "Ten persons - A, B, C, D, E, F, G, H, I and J - sit in two parallel rows of five. A, B, C, D and E sit in row 1 facing south, and F, G, H, I and J sit in row 2 facing north, each facing a member of the other row. No two persons whose names begin with consecutive letters of the alphabet sit adjacent to each other in the same row. E sits at the extreme left end of row 1. A, who faces G, sits adjacent to C. J sits to the left of I. D sits exactly in the middle of row 1. H sits immediately to the right of F. Working through these clues places row 1 (left to right) as E, B, D, A, C and row 2 (left to right) as J, G, I, F, H. Which of the following is different from the others: B, C, E, J - based on which row they sit in?",
+    "options": [
+      "B",
+      "C",
+      "E",
+      "J"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-19",
+    "category": "Seating Arrangement",
+    "question": "Ten persons - A, B, C, D, E, F, G, H, I and J - sit in two parallel rows of five. A, B, C, D and E sit in row 1 facing south, and F, G, H, I and J sit in row 2 facing north, each facing a member of the other row. No two persons whose names begin with consecutive letters of the alphabet sit adjacent to each other in the same row. E sits at the extreme left end of row 1. A, who faces G, sits adjacent to C. J sits to the left of I. D sits exactly in the middle of row 1. H sits immediately to the right of F. Working through these clues places row 1 (left to right) as E, B, D, A, C and row 2 (left to right) as J, G, I, F, H. What is the position of F with respect to J?",
+    "options": [
+      "3rd to the left",
+      "2nd to the right",
+      "Immediate right",
+      "3rd to the right"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-20",
+    "category": "Seating Arrangement",
+    "question": "Eight persons - P, Q, R, S, T, U, V and W - sit in a single row; four face north and the rest face south, and no more than two adjacent persons face the same direction. Only those facing north own a car, one each of Alto, Honda, Suzuki and Tata. P sits at one extreme end. R sits immediately to the right of P and faces the same direction as P. S, who owns Alto, sits fourth to the right of Q. Q owns no car. T, who owns Tata, sits third to the left of V. V faces north. U does not sit adjacent to Q. Working through these clues places them (left to right) as P, R, T, Q, W, V, U, S, with P, R and Q facing south, T, W and V facing north (T owns Tata), U facing south, and S facing north and owning Alto. How many people sit to the left of W?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-21",
+    "category": "Seating Arrangement",
+    "question": "Eight persons - P, Q, R, S, T, U, V and W - sit in a single row; four face north and the rest face south, and no more than two adjacent persons face the same direction. Only those facing north own a car, one each of Alto, Honda, Suzuki and Tata. P sits at one extreme end. R sits immediately to the right of P and faces the same direction as P. S, who owns Alto, sits fourth to the right of Q. Q owns no car. T, who owns Tata, sits third to the left of V. V faces north. U does not sit adjacent to Q. Working through these clues places them (left to right) as P, R, T, Q, W, V, U, S, with P, R and Q facing south, T, W and V facing north (T owns Tata), U facing south, and S facing north and owning Alto. How many people sit between V and S?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-22",
+    "category": "Seating Arrangement",
+    "question": "Eight persons - P, Q, R, S, T, U, V and W - sit in a single row; four face north and the rest face south, and no more than two adjacent persons face the same direction. Only those facing north own a car, one each of Alto, Honda, Suzuki and Tata. P sits at one extreme end. R sits immediately to the right of P and faces the same direction as P. S, who owns Alto, sits fourth to the right of Q. Q owns no car. T, who owns Tata, sits third to the left of V. V faces north. U does not sit adjacent to Q. Working through these clues places them (left to right) as P, R, T, Q, W, V, U, S, with P, R and Q facing south, T, W and V facing north (T owns Tata), U facing south, and S facing north and owning Alto. How many people sit between R and W?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-23",
+    "category": "Seating Arrangement",
+    "question": "Eight persons - P, Q, R, S, T, U, V and W - sit in a single row; four face north and the rest face south, and no more than two adjacent persons face the same direction. Only those facing north own a car, one each of Alto, Honda, Suzuki and Tata. P sits at one extreme end. R sits immediately to the right of P and faces the same direction as P. S, who owns Alto, sits fourth to the right of Q. Q owns no car. T, who owns Tata, sits third to the left of V. V faces north. U does not sit adjacent to Q. Working through these clues places them (left to right) as P, R, T, Q, W, V, U, S, with P, R and Q facing south, T, W and V facing north (T owns Tata), U facing south, and S facing north and owning Alto. Which of the following statements is definitely true?",
+    "options": [
+      "W owns Honda",
+      "Q sits exactly in the middle of the Suzuki owner and the Honda owner",
+      "P sits third to the right of Q",
+      "No person sits between U and V"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-24",
+    "category": "Seating Arrangement",
+    "question": "Seven persons A, B, C, D, E, F and G bought different fruits among Apple, Banana, Cherry, Grape, Guava, Mango and Melon, and each bought a different number of fruits among 2, 5, 7, 9, 10, 12 and 23. E does not buy a prime number of fruits. Neither E nor C bought Cherries. C bought more fruits than G, who bought more fruits than E. Neither A nor C bought Banana, and A did not buy Apple. D bought 7 Melons. G bought Mango. A bought 3 more fruits than B, who bought Guava. One person bought 10 Cherries. Working through these clues gives: A=5 (Grape), B=2 (Guava), C=23 (Apple), D=7 (Melon), E=9 (Banana), F=10 (Cherry), G=12 (Mango). Who among the following bought Cherry?",
+    "options": [
+      "E",
+      "F",
+      "B",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-25",
+    "category": "Seating Arrangement",
+    "question": "Seven persons A, B, C, D, E, F and G bought different fruits among Apple, Banana, Cherry, Grape, Guava, Mango and Melon, and each bought a different number of fruits among 2, 5, 7, 9, 10, 12 and 23. E does not buy a prime number of fruits. Neither E nor C bought Cherries. C bought more fruits than G, who bought more fruits than E. Neither A nor C bought Banana, and A did not buy Apple. D bought 7 Melons. G bought Mango. A bought 3 more fruits than B, who bought Guava. One person bought 10 Cherries. Working through these clues gives: A=5 (Grape), B=2 (Guava), C=23 (Apple), D=7 (Melon), E=9 (Banana), F=10 (Cherry), G=12 (Mango). Who bought Grape?",
+    "options": [
+      "A",
+      "C",
+      "F",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-26",
+    "category": "Seating Arrangement",
+    "question": "Seven persons A, B, C, D, E, F and G bought different fruits among Apple, Banana, Cherry, Grape, Guava, Mango and Melon, and each bought a different number of fruits among 2, 5, 7, 9, 10, 12 and 23. E does not buy a prime number of fruits. Neither E nor C bought Cherries. C bought more fruits than G, who bought more fruits than E. Neither A nor C bought Banana, and A did not buy Apple. D bought 7 Melons. G bought Mango. A bought 3 more fruits than B, who bought Guava. One person bought 10 Cherries. Working through these clues gives: A=5 (Grape), B=2 (Guava), C=23 (Apple), D=7 (Melon), E=9 (Banana), F=10 (Cherry), G=12 (Mango). What is the difference in the number of fruits that C and F bought?",
+    "options": [
+      "14",
+      "7",
+      "13",
+      "20"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-27",
+    "category": "Seating Arrangement",
+    "question": "Seven persons A, B, C, D, E, F and G bought different fruits among Apple, Banana, Cherry, Grape, Guava, Mango and Melon, and each bought a different number of fruits among 2, 5, 7, 9, 10, 12 and 23. E does not buy a prime number of fruits. Neither E nor C bought Cherries. C bought more fruits than G, who bought more fruits than E. Neither A nor C bought Banana, and A did not buy Apple. D bought 7 Melons. G bought Mango. A bought 3 more fruits than B, who bought Guava. One person bought 10 Cherries. Working through these clues gives: A=5 (Grape), B=2 (Guava), C=23 (Apple), D=7 (Melon), E=9 (Banana), F=10 (Cherry), G=12 (Mango). Which of the following pairs is correct?",
+    "options": [
+      "E, 9",
+      "B, Apple",
+      "A, 12",
+      "G, 10"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-28",
+    "category": "Seating Arrangement",
+    "question": "Five friends A, B, C, D and E each like a different brand of shoes - Puma, Adidas, Reebok, Woodland and Nike - play a different game each among Football, Cricket, Kabaddi, Badminton and Tennis, and earn a different salary among Rs. 15000, Rs. 18000, Rs. 20000, Rs. 24000 and Rs. 25000. The Puma-lover earns Rs. 18000. D earns Rs. 5000 more than A, but does not play Kabaddi or Tennis, and does not like Woodland. The Badminton player does not earn the highest salary, but likes Reebok. B plays Cricket but does not like Nike or Adidas. E does not play Badminton, likes Nike, and earns Rs. 15000. C likes either Woodland or Adidas but does not play Tennis. Working through these clues gives: A - Reebok, Badminton, Rs. 20000; B - Puma, Cricket, Rs. 18000; C - Woodland, Kabaddi, Rs. 24000; D - Adidas, Football, Rs. 25000; E - Nike, Tennis, Rs. 15000. Which shoe brand does D like?",
+    "options": [
+      "Woodland",
+      "Adidas",
+      "Puma",
+      "Reebok"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-29",
+    "category": "Seating Arrangement",
+    "question": "Five friends A, B, C, D and E each like a different brand of shoes - Puma, Adidas, Reebok, Woodland and Nike - play a different game each among Football, Cricket, Kabaddi, Badminton and Tennis, and earn a different salary among Rs. 15000, Rs. 18000, Rs. 20000, Rs. 24000 and Rs. 25000. The Puma-lover earns Rs. 18000. D earns Rs. 5000 more than A, but does not play Kabaddi or Tennis, and does not like Woodland. The Badminton player does not earn the highest salary, but likes Reebok. B plays Cricket but does not like Nike or Adidas. E does not play Badminton, likes Nike, and earns Rs. 15000. C likes either Woodland or Adidas but does not play Tennis. Working through these clues gives: A - Reebok, Badminton, Rs. 20000; B - Puma, Cricket, Rs. 18000; C - Woodland, Kabaddi, Rs. 24000; D - Adidas, Football, Rs. 25000; E - Nike, Tennis, Rs. 15000. Which shoe brand is liked by the person earning Rs. 20000?",
+    "options": [
+      "Woodland",
+      "Adidas",
+      "Puma",
+      "Reebok"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-30",
+    "category": "Seating Arrangement",
+    "question": "Five friends A, B, C, D and E each like a different brand of shoes - Puma, Adidas, Reebok, Woodland and Nike - play a different game each among Football, Cricket, Kabaddi, Badminton and Tennis, and earn a different salary among Rs. 15000, Rs. 18000, Rs. 20000, Rs. 24000 and Rs. 25000. The Puma-lover earns Rs. 18000. D earns Rs. 5000 more than A, but does not play Kabaddi or Tennis, and does not like Woodland. The Badminton player does not earn the highest salary, but likes Reebok. B plays Cricket but does not like Nike or Adidas. E does not play Badminton, likes Nike, and earns Rs. 15000. C likes either Woodland or Adidas but does not play Tennis. Working through these clues gives: A - Reebok, Badminton, Rs. 20000; B - Puma, Cricket, Rs. 18000; C - Woodland, Kabaddi, Rs. 24000; D - Adidas, Football, Rs. 25000; E - Nike, Tennis, Rs. 15000. Who is the Tennis player, and how much does he/she earn?",
+    "options": [
+      "E - Rs. 15000",
+      "D - Rs. 24000",
+      "E - Rs. 25000",
+      "A - Rs. 18000"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-31",
+    "category": "Seating Arrangement",
+    "question": "Five friends A, B, C, D and E each like a different brand of shoes - Puma, Adidas, Reebok, Woodland and Nike - play a different game each among Football, Cricket, Kabaddi, Badminton and Tennis, and earn a different salary among Rs. 15000, Rs. 18000, Rs. 20000, Rs. 24000 and Rs. 25000. The Puma-lover earns Rs. 18000. D earns Rs. 5000 more than A, but does not play Kabaddi or Tennis, and does not like Woodland. The Badminton player does not earn the highest salary, but likes Reebok. B plays Cricket but does not like Nike or Adidas. E does not play Badminton, likes Nike, and earns Rs. 15000. C likes either Woodland or Adidas but does not play Tennis. Working through these clues gives: A - Reebok, Badminton, Rs. 20000; B - Puma, Cricket, Rs. 18000; C - Woodland, Kabaddi, Rs. 24000; D - Adidas, Football, Rs. 25000; E - Nike, Tennis, Rs. 15000. Which of the following combinations is correct?",
+    "options": [
+      "B - Woodland - Cricket - Rs. 15000",
+      "E - Nike - Kabaddi - Rs. 18000",
+      "C - Woodland - Kabaddi - Rs. 24000",
+      "A - Nike - Badminton - Rs. 18000"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-32",
+    "category": "Seating Arrangement",
+    "question": "Five friends A, B, C, D and E each like a different brand of shoes - Puma, Adidas, Reebok, Woodland and Nike - play a different game each among Football, Cricket, Kabaddi, Badminton and Tennis, and earn a different salary among Rs. 15000, Rs. 18000, Rs. 20000, Rs. 24000 and Rs. 25000. The Puma-lover earns Rs. 18000. D earns Rs. 5000 more than A, but does not play Kabaddi or Tennis, and does not like Woodland. The Badminton player does not earn the highest salary, but likes Reebok. B plays Cricket but does not like Nike or Adidas. E does not play Badminton, likes Nike, and earns Rs. 15000. C likes either Woodland or Adidas but does not play Tennis. Working through these clues gives: A - Reebok, Badminton, Rs. 20000; B - Puma, Cricket, Rs. 18000; C - Woodland, Kabaddi, Rs. 24000; D - Adidas, Football, Rs. 25000; E - Nike, Tennis, Rs. 15000. Which of the following statement(s) is/are correct? 1. The salary difference between the Reebok owner and the Adidas owner equals the difference between the Badminton and Tennis players' salaries. 2. C earns the highest salary. 3. The salary difference between C and D is the smallest among all such pairwise differences.",
+    "options": [
+      "Only 1",
+      "Only 3",
+      "Both 1 and 3",
+      "Either 1 or 3"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-33",
+    "category": "Seating Arrangement",
+    "question": "Seven boxes Y1 to Y7 are stacked one above another, with the bottommost box numbered 1 and increasing upward, and each box has a different number of cards among 70, 100, 95, 120, 135, 150 and 170. Box Y5 has three boxes between it and box Y6 (which contains 95 cards), with Y5 above Y6. Y7 is the bottommost box. Y1 is immediately above Y5, and Y5 has more cards than Y7. Y4 has 20 more cards than Y5. Y3 has 70 cards and is immediately above Y2, which is at an even-numbered position and has an odd number of cards. Y2 is not adjacent to Y6. Y1 has fewer cards than Y7. Working through these clues places the boxes, from bottom to top, as Y7, Y6, Y4, Y2, Y3, Y5, Y1, with card counts Y7=120, Y6=95, Y4=170, Y2=135, Y3=70, Y5=150, Y1=100. Which box contains 170 cards?",
+    "options": [
+      "Y6",
+      "Y7",
+      "Y1",
+      "None of these"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-34",
+    "category": "Seating Arrangement",
+    "question": "Seven boxes Y1 to Y7 are stacked one above another, with the bottommost box numbered 1 and increasing upward, and each box has a different number of cards among 70, 100, 95, 120, 135, 150 and 170. Box Y5 has three boxes between it and box Y6 (which contains 95 cards), with Y5 above Y6. Y7 is the bottommost box. Y1 is immediately above Y5, and Y5 has more cards than Y7. Y4 has 20 more cards than Y5. Y3 has 70 cards and is immediately above Y2, which is at an even-numbered position and has an odd number of cards. Y2 is not adjacent to Y6. Y1 has fewer cards than Y7. Working through these clues places the boxes, from bottom to top, as Y7, Y6, Y4, Y2, Y3, Y5, Y1, with card counts Y7=120, Y6=95, Y4=170, Y2=135, Y3=70, Y5=150, Y1=100. How many boxes are above box Y2?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-35",
+    "category": "Seating Arrangement",
+    "question": "Seven boxes Y1 to Y7 are stacked one above another, with the bottommost box numbered 1 and increasing upward, and each box has a different number of cards among 70, 100, 95, 120, 135, 150 and 170. Box Y5 has three boxes between it and box Y6 (which contains 95 cards), with Y5 above Y6. Y7 is the bottommost box. Y1 is immediately above Y5, and Y5 has more cards than Y7. Y4 has 20 more cards than Y5. Y3 has 70 cards and is immediately above Y2, which is at an even-numbered position and has an odd number of cards. Y2 is not adjacent to Y6. Y1 has fewer cards than Y7. Working through these clues places the boxes, from bottom to top, as Y7, Y6, Y4, Y2, Y3, Y5, Y1, with card counts Y7=120, Y6=95, Y4=170, Y2=135, Y3=70, Y5=150, Y1=100. How many cards does box Y1 contain?",
+    "options": [
+      "150",
+      "170",
+      "120",
+      "100"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-36",
+    "category": "Seating Arrangement",
+    "question": "Seven boxes Y1 to Y7 are stacked one above another, with the bottommost box numbered 1 and increasing upward, and each box has a different number of cards among 70, 100, 95, 120, 135, 150 and 170. Box Y5 has three boxes between it and box Y6 (which contains 95 cards), with Y5 above Y6. Y7 is the bottommost box. Y1 is immediately above Y5, and Y5 has more cards than Y7. Y4 has 20 more cards than Y5. Y3 has 70 cards and is immediately above Y2, which is at an even-numbered position and has an odd number of cards. Y2 is not adjacent to Y6. Y1 has fewer cards than Y7. Working through these clues places the boxes, from bottom to top, as Y7, Y6, Y4, Y2, Y3, Y5, Y1, with card counts Y7=120, Y6=95, Y4=170, Y2=135, Y3=70, Y5=150, Y1=100. How many boxes are below box Y6?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-37",
+    "category": "Seating Arrangement",
+    "question": "Seven bank employees A, B, C, D, E, F and G hold seven different ranks, in descending order: Chairman > Managing Director (MD) > HOD > Senior Manager (SM) > Assistant Manager (AM) > Clerk > Trainee. Each wears a different colour of trousers. The Clerk wears Orange. C, whose rank is higher than D's, wears Black. The Pink-wearer is three ranks higher than the Orange-wearer (the Clerk), so the Pink-wearer is the HOD. G does not belong to the top three ranks. F is Chairman and wears Beige. G wears Grey. E is two ranks lower than F (the Chairman), so E is the HOD and wears Pink. The person with the third-lowest rank (the Assistant Manager) wears Brown. Neither A nor B wears Brown. SM wears Blue. Working through these clues gives: F=Chairman(Beige), C=MD(Black), E=HOD(Pink), and among A and B (in some order) one is SM(Blue) and the other is Clerk(Orange), while D=Assistant Manager(Brown) and G=Trainee(Grey). What is A's rank from the top, as per the given designation order?",
+    "options": [
+      "4th",
+      "2nd",
+      "6th",
+      "Either 4th or 6th"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-38",
+    "category": "Seating Arrangement",
+    "question": "Seven bank employees A, B, C, D, E, F and G hold seven different ranks, in descending order: Chairman > Managing Director (MD) > HOD > Senior Manager (SM) > Assistant Manager (AM) > Clerk > Trainee. Each wears a different colour of trousers. The Clerk wears Orange. C, whose rank is higher than D's, wears Black. The Pink-wearer is three ranks higher than the Orange-wearer (the Clerk), so the Pink-wearer is the HOD. G does not belong to the top three ranks. F is Chairman and wears Beige. G wears Grey. E is two ranks lower than F (the Chairman), so E is the HOD and wears Pink. The person with the third-lowest rank (the Assistant Manager) wears Brown. Neither A nor B wears Brown. SM wears Blue. Working through these clues gives: F=Chairman(Beige), C=MD(Black), E=HOD(Pink), and among A and B (in some order) one is SM(Blue) and the other is Clerk(Orange), while D=Assistant Manager(Brown) and G=Trainee(Grey). The person whose designation is HOD wears which colour of trousers?",
+    "options": [
+      "Blue",
+      "Pink",
+      "Black",
+      "Either Brown or Black"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-39",
+    "category": "Seating Arrangement",
+    "question": "Seven bank employees A, B, C, D, E, F and G hold seven different ranks, in descending order: Chairman > Managing Director (MD) > HOD > Senior Manager (SM) > Assistant Manager (AM) > Clerk > Trainee. Each wears a different colour of trousers. The Clerk wears Orange. C, whose rank is higher than D's, wears Black. The Pink-wearer is three ranks higher than the Orange-wearer (the Clerk), so the Pink-wearer is the HOD. G does not belong to the top three ranks. F is Chairman and wears Beige. G wears Grey. E is two ranks lower than F (the Chairman), so E is the HOD and wears Pink. The person with the third-lowest rank (the Assistant Manager) wears Brown. Neither A nor B wears Brown. SM wears Blue. Working through these clues gives: F=Chairman(Beige), C=MD(Black), E=HOD(Pink), and among A and B (in some order) one is SM(Blue) and the other is Clerk(Orange), while D=Assistant Manager(Brown) and G=Trainee(Grey). How many people are there between the one who likes Beige and the one who likes Orange?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-40",
+    "category": "Seating Arrangement",
+    "question": "There are seven persons A, B, C, D, E, F and G, one of whom stays in Delhi; each is from a different state, has a different profession, and plays a different instrument. C, a doctor, is from Bihar. E and F play Mandolin and Violin (not necessarily in that order). A is not from Kerala. The person from Kerala is an Engineer and plays Guitar. The Lawyer plays Sitar. The businessman from UP plays Violin. The teacher and the cricketer play Flute and Piano (not necessarily in that order). F is a Pilot. The Maharashtrian is a teacher. The Gujarati plays Piano. G, a Punjabi, does not play Sarod. B is a cricketer. Working through these clues gives: A - Maharashtra, Teacher, Flute; B - Gujarat, Cricketer, Piano; C - Bihar, Doctor, Sarod; D - Kerala, Engineer, Guitar; E - UP, Businessman, Violin; F - Delhi, Pilot, Mandolin; G - Punjab, Lawyer, Sitar. Who is from Delhi?",
+    "options": [
+      "E",
+      "F",
+      "A",
+      "B"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-41",
+    "category": "Seating Arrangement",
+    "question": "There are seven persons A, B, C, D, E, F and G, one of whom stays in Delhi; each is from a different state, has a different profession, and plays a different instrument. C, a doctor, is from Bihar. E and F play Mandolin and Violin (not necessarily in that order). A is not from Kerala. The person from Kerala is an Engineer and plays Guitar. The Lawyer plays Sitar. The businessman from UP plays Violin. The teacher and the cricketer play Flute and Piano (not necessarily in that order). F is a Pilot. The Maharashtrian is a teacher. The Gujarati plays Piano. G, a Punjabi, does not play Sarod. B is a cricketer. Working through these clues gives: A - Maharashtra, Teacher, Flute; B - Gujarat, Cricketer, Piano; C - Bihar, Doctor, Sarod; D - Kerala, Engineer, Guitar; E - UP, Businessman, Violin; F - Delhi, Pilot, Mandolin; G - Punjab, Lawyer, Sitar. Which state is A from?",
+    "options": [
+      "Delhi",
+      "UP",
+      "Gujarat",
+      "Maharashtra"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-42",
+    "category": "Seating Arrangement",
+    "question": "There are seven persons A, B, C, D, E, F and G, one of whom stays in Delhi; each is from a different state, has a different profession, and plays a different instrument. C, a doctor, is from Bihar. E and F play Mandolin and Violin (not necessarily in that order). A is not from Kerala. The person from Kerala is an Engineer and plays Guitar. The Lawyer plays Sitar. The businessman from UP plays Violin. The teacher and the cricketer play Flute and Piano (not necessarily in that order). F is a Pilot. The Maharashtrian is a teacher. The Gujarati plays Piano. G, a Punjabi, does not play Sarod. B is a cricketer. Working through these clues gives: A - Maharashtra, Teacher, Flute; B - Gujarat, Cricketer, Piano; C - Bihar, Doctor, Sarod; D - Kerala, Engineer, Guitar; E - UP, Businessman, Violin; F - Delhi, Pilot, Mandolin; G - Punjab, Lawyer, Sitar. Which instrument does G play?",
+    "options": [
+      "Sitar",
+      "Guitar",
+      "Piano",
+      "Flute"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "seating-43",
+    "category": "Seating Arrangement",
+    "question": "Seven persons P, Q, R, S, T, U and V board flights from different cities among Bengaluru, Chennai, Delhi, Lucknow, Pune, Nagpur and Mumbai, at different times among 5:00am, 6:30am, 7:30am, 8:00am, 9:30am, 9:35am and 10:40am on the same day. Q boarded from Delhi at 10:40am. V boarded from Bengaluru. R boarded at 5:00am, but not from Lucknow. U boarded from neither Lucknow nor Chennai. S's flight was 1 hour 30 minutes after U's flight. The flight from Mumbai is 5 minutes after the flight from Pune. T did not board from Mumbai. The person who boarded from Lucknow has a flight after U's flight. Working through these clues gives: R - Chennai - 5:00am; U - Nagpur - 6:30am; V - Bengaluru - 7:30am; S - Lucknow - 8:00am; T - Pune - 9:30am; P - Mumbai - 9:35am; Q - Delhi - 10:40am. Who among the following has a flight at 7:30am?",
+    "options": [
+      "T",
+      "U",
+      "V",
+      "P"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-44",
+    "category": "Seating Arrangement",
+    "question": "Seven persons P, Q, R, S, T, U and V board flights from different cities among Bengaluru, Chennai, Delhi, Lucknow, Pune, Nagpur and Mumbai, at different times among 5:00am, 6:30am, 7:30am, 8:00am, 9:30am, 9:35am and 10:40am on the same day. Q boarded from Delhi at 10:40am. V boarded from Bengaluru. R boarded at 5:00am, but not from Lucknow. U boarded from neither Lucknow nor Chennai. S's flight was 1 hour 30 minutes after U's flight. The flight from Mumbai is 5 minutes after the flight from Pune. T did not board from Mumbai. The person who boarded from Lucknow has a flight after U's flight. Working through these clues gives: R - Chennai - 5:00am; U - Nagpur - 6:30am; V - Bengaluru - 7:30am; S - Lucknow - 8:00am; T - Pune - 9:30am; P - Mumbai - 9:35am; Q - Delhi - 10:40am. Who boarded the flight from Mumbai?",
+    "options": [
+      "Q",
+      "P",
+      "T",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "seating-45",
+    "category": "Seating Arrangement",
+    "question": "Seven persons P, Q, R, S, T, U and V board flights from different cities among Bengaluru, Chennai, Delhi, Lucknow, Pune, Nagpur and Mumbai, at different times among 5:00am, 6:30am, 7:30am, 8:00am, 9:30am, 9:35am and 10:40am on the same day. Q boarded from Delhi at 10:40am. V boarded from Bengaluru. R boarded at 5:00am, but not from Lucknow. U boarded from neither Lucknow nor Chennai. S's flight was 1 hour 30 minutes after U's flight. The flight from Mumbai is 5 minutes after the flight from Pune. T did not board from Mumbai. The person who boarded from Lucknow has a flight after U's flight. Working through these clues gives: R - Chennai - 5:00am; U - Nagpur - 6:30am; V - Bengaluru - 7:30am; S - Lucknow - 8:00am; T - Pune - 9:30am; P - Mumbai - 9:35am; Q - Delhi - 10:40am. From which city does T board the flight?",
+    "options": [
+      "Chennai",
+      "Mumbai",
+      "Lucknow",
+      "Pune"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "seating-46",
+    "category": "Seating Arrangement",
+    "question": "Seven persons P, Q, R, S, T, U and V board flights from different cities among Bengaluru, Chennai, Delhi, Lucknow, Pune, Nagpur and Mumbai, at different times among 5:00am, 6:30am, 7:30am, 8:00am, 9:30am, 9:35am and 10:40am on the same day. Q boarded from Delhi at 10:40am. V boarded from Bengaluru. R boarded at 5:00am, but not from Lucknow. U boarded from neither Lucknow nor Chennai. S's flight was 1 hour 30 minutes after U's flight. The flight from Mumbai is 5 minutes after the flight from Pune. T did not board from Mumbai. The person who boarded from Lucknow has a flight after U's flight. Working through these clues gives: R - Chennai - 5:00am; U - Nagpur - 6:30am; V - Bengaluru - 7:30am; S - Lucknow - 8:00am; T - Pune - 9:30am; P - Mumbai - 9:35am; Q - Delhi - 10:40am. What is the difference in the flight timings of U and V?",
+    "options": [
+      "30 minutes",
+      "45 minutes",
+      "1 hour",
+      "1 hour 30 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "seating-47",
+    "category": "Seating Arrangement",
+    "question": "Seven persons P, Q, R, S, T, U and V board flights from different cities among Bengaluru, Chennai, Delhi, Lucknow, Pune, Nagpur and Mumbai, at different times among 5:00am, 6:30am, 7:30am, 8:00am, 9:30am, 9:35am and 10:40am on the same day. Q boarded from Delhi at 10:40am. V boarded from Bengaluru. R boarded at 5:00am, but not from Lucknow. U boarded from neither Lucknow nor Chennai. S's flight was 1 hour 30 minutes after U's flight. The flight from Mumbai is 5 minutes after the flight from Pune. T did not board from Mumbai. The person who boarded from Lucknow has a flight after U's flight. Working through these clues gives: R - Chennai - 5:00am; U - Nagpur - 6:30am; V - Bengaluru - 7:30am; S - Lucknow - 8:00am; T - Pune - 9:30am; P - Mumbai - 9:35am; Q - Delhi - 10:40am. How many persons boarded a flight after S?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-1",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"remote\"?",
+    "options": [
+      "automatic",
+      "distant",
+      "savage",
+      "mean"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-2",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"detest\"?",
+    "options": [
+      "argue",
+      "hate",
+      "discover",
+      "reveal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-3",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"gracious\"?",
+    "options": [
+      "pretty",
+      "clever",
+      "pleasant",
+      "present"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-4",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"predict\"?",
+    "options": [
+      "foretell",
+      "decide",
+      "prevent",
+      "discover"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-5",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"kin\"?",
+    "options": [
+      "exult",
+      "twist",
+      "friend",
+      "relative"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-6",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"pensive\"?",
+    "options": [
+      "oppressed",
+      "caged",
+      "thoughtful",
+      "happy"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-7",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"banish\"?",
+    "options": [
+      "exile",
+      "hate",
+      "fade",
+      "clean"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-8",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"fraud\"?",
+    "options": [
+      "malcontent",
+      "argument",
+      "imposter",
+      "clown"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-9",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"saccharine\"?",
+    "options": [
+      "leave",
+      "sweet",
+      "arid",
+      "quit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-10",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"drag\"?",
+    "options": [
+      "sleepy",
+      "crush",
+      "proud",
+      "pull"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-11",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"jovial\"?",
+    "options": [
+      "incredulous",
+      "merry",
+      "revolting",
+      "dizzy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-12",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"indifferent\"?",
+    "options": [
+      "neutral",
+      "unkind",
+      "precious",
+      "mean"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-13",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"simulate\"?",
+    "options": [
+      "excite",
+      "imitate",
+      "trick",
+      "apelike"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-14",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"charisma\"?",
+    "options": [
+      "ghost",
+      "force",
+      "charm",
+      "courage"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-15",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"apportion\"?",
+    "options": [
+      "divide",
+      "decide",
+      "cut",
+      "squabble"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-16",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"generic\"?",
+    "options": [
+      "general",
+      "cheap",
+      "fresh",
+      "elderly"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-17",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"qualm\"?",
+    "options": [
+      "distress",
+      "impunity",
+      "persevere",
+      "scruple"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-18",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"wary\"?",
+    "options": [
+      "calm",
+      "curved",
+      "confused",
+      "cautious"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-19",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"distort\"?",
+    "options": [
+      "wrong",
+      "evil",
+      "deform",
+      "harm"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-20",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"sumptuous\"?",
+    "options": [
+      "delirious",
+      "gorgeous",
+      "perilous",
+      "luxurious"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-21",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"reel\"?",
+    "options": [
+      "whirl",
+      "ﬁsh",
+      "hit",
+      "mistake"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-22",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"inscrutable\"?",
+    "options": [
+      "difﬁcult",
+      "mysterious",
+      "inﬂexible",
+      "wary"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-23",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"appall\"?",
+    "options": [
+      "delirious",
+      "covered",
+      "dismay",
+      "confuse"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-24",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"upright\"?",
+    "options": [
+      "honorable",
+      "horizontal",
+      "humble",
+      "supine"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-25",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"reverie\"?",
+    "options": [
+      "palimpsest",
+      "phantom",
+      "daydream",
+      "curio"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-26",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"loot\"?",
+    "options": [
+      "destruction",
+      "waste",
+      "spoils",
+      "cavort"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-27",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"loquacious\"?",
+    "options": [
+      "talkative",
+      "thirsty",
+      "beautiful",
+      "complicated"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-28",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"chimera\"?",
+    "options": [
+      "chimney",
+      "protest",
+      "illusion",
+      "panache"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-29",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"temerity\"?",
+    "options": [
+      "audacity",
+      "fearfulness",
+      "shyness",
+      "stupidity"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-30",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"educe\"?",
+    "options": [
+      "demand",
+      "elicit",
+      "ideal",
+      "unlawful"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-31",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"nabob\"?",
+    "options": [
+      "bigwig",
+      "doubter",
+      "frolic",
+      "converse"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-32",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"pall\"?",
+    "options": [
+      "light",
+      "satiate",
+      "carry",
+      "horror"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-33",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"sacrosanct\"?",
+    "options": [
+      "prayer",
+      "sanctuary",
+      "pious",
+      "sacred"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-34",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"louche\"?",
+    "options": [
+      "gauche",
+      "ﬁne",
+      "brilliant",
+      "indecent"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-35",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"stentorian\"?",
+    "options": [
+      "violent",
+      "misbegotten",
+      "loud",
+      "stealthy"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-36",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"withdraw\"?",
+    "options": [
+      "reduce",
+      "need",
+      "advance",
+      "want"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-37",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"secret\"?",
+    "options": [
+      "friendly",
+      "covert",
+      "hidden",
+      "overt"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-38",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"heartfelt\"?",
+    "options": [
+      "loving",
+      "insincere",
+      "unhealthy",
+      "humorous"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-39",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"impartial\"?",
+    "options": [
+      "hostile",
+      "biased",
+      "dislike",
+      "worried"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-40",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"luminous\"?",
+    "options": [
+      "clear",
+      "dim",
+      "brittle",
+      "clever"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-41",
+    "category": "Synonyms",
+    "question": "Which word is closest in meaning to \"awe\"?",
+    "options": [
+      "borrow",
+      "shallow",
+      "low",
+      "contempt"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-42",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"pit\"?",
+    "options": [
+      "group",
+      "peak",
+      "select",
+      "marry"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-43",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"rotund\"?",
+    "options": [
+      "round",
+      "unimportant",
+      "thin",
+      "dull"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-44",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"talent\"?",
+    "options": [
+      "ungrateful",
+      "silent",
+      "show",
+      "inability"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-45",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"common\"?",
+    "options": [
+      "strange",
+      "uneasy",
+      "quick",
+      "fast"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-46",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"brazen\"?",
+    "options": [
+      "bashful",
+      "boisterous",
+      "noisy",
+      "heated"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-47",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"expect\"?",
+    "options": [
+      "attend",
+      "regret",
+      "despair",
+      "loathe"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-48",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"malodorous\"?",
+    "options": [
+      "acrid",
+      "pungent",
+      "fragrant",
+      "delicious"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-49",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"expound\"?",
+    "options": [
+      "besmirch",
+      "confuse",
+      "conﬁne",
+      "condemn"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-50",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"pique\"?",
+    "options": [
+      "value",
+      "gully",
+      "smooth",
+      "soothe"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-51",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"abate\"?",
+    "options": [
+      "free",
+      "augment",
+      "provoke",
+      "wane"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-52",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"dearth\"?",
+    "options": [
+      "lack",
+      "poverty",
+      "abundance",
+      "foreign"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-53",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"peaked\"?",
+    "options": [
+      "tired",
+      "arrogant",
+      "pointy",
+      "ruddy"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-54",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"abridge\"?",
+    "options": [
+      "shorten",
+      "extend",
+      "stress",
+      "easy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-55",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"kindle\"?",
+    "options": [
+      "smother",
+      "detest",
+      "enemy",
+      "discourage"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-56",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"meager\"?",
+    "options": [
+      "kind",
+      "generous",
+      "thoughtful",
+      "copious"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-57",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"philistine\"?",
+    "options": [
+      "novice",
+      "intellectual",
+      "pious",
+      "debutante"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-58",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"zenith\"?",
+    "options": [
+      "worst",
+      "apex",
+      "nadir",
+      "past"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-59",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"germane\"?",
+    "options": [
+      "irrelevant",
+      "indifferent",
+      "impartial",
+      "improvident"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-60",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"irascible\"?",
+    "options": [
+      "determined",
+      "placid",
+      "reasonable",
+      "pliant"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-61",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"approbate\"?",
+    "options": [
+      "ingratitude",
+      "condemn",
+      "dissatisfaction",
+      "master"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-62",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"supercilious\"?",
+    "options": [
+      "unimportant",
+      "relevant",
+      "serious",
+      "meek"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "syn501-63",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"improvident\"?",
+    "options": [
+      "cautious",
+      "fortunate",
+      "proven",
+      "intelligent"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-64",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"demur\"?",
+    "options": [
+      "embrace",
+      "crude",
+      "boisterous",
+      "falter"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-65",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"fatuous\"?",
+    "options": [
+      "crafty",
+      "frugal",
+      "sensible",
+      "inane"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-66",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"quiescent\"?",
+    "options": [
+      "lackadaisical",
+      "active",
+      "dull",
+      "prescient"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-67",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"sartorial\"?",
+    "options": [
+      "cheerful",
+      "sincere",
+      "inelegant",
+      "homespun"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "syn501-68",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"sapient\"?",
+    "options": [
+      "hunched",
+      "strong",
+      "simple",
+      "simian"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "syn501-69",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"matutinal\"?",
+    "options": [
+      "paternal",
+      "crepuscular",
+      "maritime",
+      "marsupial"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "syn501-70",
+    "category": "Antonyms",
+    "question": "Which word is most nearly opposite in meaning to \"impecunious\"?",
+    "options": [
+      "wealthy",
+      "cautious",
+      "hungry",
+      "tardy"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "phrasal-1",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"chip in\" mean?",
+    "options": [
+      "eat at a restaurant",
+      "fasten, close",
+      "get to the same point as somebody else",
+      "help"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-2",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"give something away\" mean?",
+    "options": [
+      "fasten, close",
+      "be especially vigilant for",
+      "give something to somebody for free",
+      "faint"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "phrasal-3",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"pass something out\" mean?",
+    "options": [
+      "start laughing (informal)",
+      "extinguish",
+      "give the same thing to many people",
+      "purposely break into pieces"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "phrasal-4",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"get back into something\" mean?",
+    "options": [
+      "become interested in something again",
+      "make unhappy",
+      "continue at the same rate",
+      "step onto a vehicle"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "phrasal-5",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"turn something off\" mean?",
+    "options": [
+      "think less of, consider inferior",
+      "remove part of something (usually with scissors and paper)",
+      "stop the energy flow, switch off",
+      "look at carefully, investigate"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "phrasal-6",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"fill something up\" mean?",
+    "options": [
+      "return to a place",
+      "make a calculation",
+      "interrupt",
+      "fill to the top"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-7",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"get away\" mean?",
+    "options": [
+      "stand",
+      "go on a vacation",
+      "visit somebody nearby",
+      "leave home to go on a social event"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-8",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"use something up\" mean?",
+    "options": [
+      "drive a vehicle over a person or thing",
+      "arrange, organize",
+      "put clothing/ accessories on your body",
+      "finish the supply"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-9",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"run over somebody/ something\" mean?",
+    "options": [
+      "pay for somebody to go somewhere with you",
+      "recover from an illness, loss, difficulty",
+      "exercise",
+      "drive a vehicle over a person or thing"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-10",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"get away with something\" mean?",
+    "options": [
+      "think less of, consider inferior",
+      "do without being noticed or punished",
+      "become an adult",
+      "interrupt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-11",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"back something up\" mean?",
+    "options": [
+      "give (usually unwillingly)",
+      "eat at a restaurant",
+      "to write information in blanks, as on a form (AmE)",
+      "reverse"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-12",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"let somebody down\" mean?",
+    "options": [
+      "wear something a few times so that it doesn't look/feel new",
+      "drive a vehicle over a person or thing",
+      "try to find",
+      "fail to support or help, disappoint"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-13",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"come forward\" mean?",
+    "options": [
+      "return to a place",
+      "originate in",
+      "volunteer for a task or to give evidence",
+      "hide an emotion"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "phrasal-14",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"break in\" mean?",
+    "options": [
+      "stop trying",
+      "rely on",
+      "develop a skin condition",
+      "interrupt"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-15",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"drop back\" mean?",
+    "options": [
+      "move back in a position/group",
+      "stop sleeping",
+      "submit",
+      "discover"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "phrasal-16",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"go over\" mean?",
+    "options": [
+      "discover",
+      "interrupt",
+      "visit somebody nearby",
+      "find unexpectedly"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "phrasal-17",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"blow up\" mean?",
+    "options": [
+      "start laughing (informal)",
+      "decrease the volume or strength (heat, light etc)",
+      "return",
+      "explode"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-18",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"bring something up\" mean?",
+    "options": [
+      "not tell",
+      "volunteer for a task or to give evidence",
+      "take care of",
+      "vomit"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-19",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"put something out\" mean?",
+    "options": [
+      "make something fall to the ground",
+      "faint",
+      "develop a skin condition",
+      "extinguish"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-20",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"cheer somebody up\" mean?",
+    "options": [
+      "have a lot of respect for",
+      "make happier",
+      "get to the same point as somebody else",
+      "start, proceed"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-21",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"go without something\" mean?",
+    "options": [
+      "date",
+      "suffer lack or deprivation",
+      "put what you are holding on a surface or floor",
+      "start talking about a subject"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-22",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"hang out\" mean?",
+    "options": [
+      "spend time relaxing (informal)",
+      "start to fly",
+      "do without being noticed or punished",
+      "arrange, organize"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "phrasal-23",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"look forward to something\" mean?",
+    "options": [
+      "be excited about the future",
+      "meet unexpectedly",
+      "look at carefully, investigate",
+      "arrange, organize"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "phrasal-24",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"break up\" mean?",
+    "options": [
+      "stop the energy flow, switch off",
+      "start laughing (informal)",
+      "start talking about a subject",
+      "equal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-25",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"cross something out\" mean?",
+    "options": [
+      "beat up, ransack (BrE, informal)",
+      "make unhappy",
+      "draw a line through",
+      "think less of, consider inferior"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "phrasal-26",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"put something on\" mean?",
+    "options": [
+      "ruin a secret",
+      "develop a skin condition",
+      "put clothing/ accessories on your body",
+      "take somebody/ something somewhere and leave them/it there"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "phrasal-27",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"add up to something\" mean?",
+    "options": [
+      "have mobility",
+      "be excited about the future",
+      "resemble a family member",
+      "equal"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "phrasal-28",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"drop in/ by/ over\" mean?",
+    "options": [
+      "have none left",
+      "look at (informal)",
+      "come without an appointment",
+      "visit somebody"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "phrasal-29",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"catch up\" mean?",
+    "options": [
+      "separate",
+      "get to the same point as somebody else",
+      "dispose of",
+      "be careful, vigilant, and take notice"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-30",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"run over/ through something\" mean?",
+    "options": [
+      "rehearse, review",
+      "start to fly",
+      "stop providing",
+      "overcome a problem"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "phrasal-31",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"count on somebody/ something\" mean?",
+    "options": [
+      "interrupt",
+      "rely on",
+      "eventually reach/do/decide",
+      "return a phone call"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-32",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"cut something down\" mean?",
+    "options": [
+      "make something fall to the ground",
+      "sample clothing",
+      "recover from an illness, loss, difficulty",
+      "invite on a date"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "phrasal-33",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"pay for something\" mean?",
+    "options": [
+      "become sick",
+      "be punished for doing something bad",
+      "consider",
+      "grow big enough to fit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-34",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"hold somebody/ something up\" mean?",
+    "options": [
+      "organize, resolve a problem",
+      "rob",
+      "raise a child",
+      "relax after being angry"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "phrasal-35",
+    "category": "Phrasal Verbs",
+    "question": "What does the phrasal verb \"fall apart\" mean?",
+    "options": [
+      "confuse two or more things",
+      "break into pieces",
+      "be careful, vigilant, and take notice",
+      "give something to somebody for free"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-1",
+    "category": "Root Words",
+    "question": "What does the root \"Hom\" mean?",
+    "options": [
+      "time",
+      "man",
+      "foot",
+      "sound"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-2",
+    "category": "Root Words",
+    "question": "What does the root \"The, Theo\" mean?",
+    "options": [
+      "god",
+      "thousand",
+      "star",
+      "work"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "root-3",
+    "category": "Root Words",
+    "question": "What does the root \"Aster, Astro\" mean?",
+    "options": [
+      "animal",
+      "war",
+      "join",
+      "star"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "root-4",
+    "category": "Root Words",
+    "question": "What does the root \"Meter, Metr\" mean?",
+    "options": [
+      "year",
+      "turn",
+      "light",
+      "measure"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "root-5",
+    "category": "Root Words",
+    "question": "What does the root \"Phon\" mean?",
+    "options": [
+      "write, draw",
+      "sound",
+      "book",
+      "word, law, reading"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-6",
+    "category": "Root Words",
+    "question": "What does the root \"Mal\" mean?",
+    "options": [
+      "throw",
+      "between, among, jointly",
+      "father",
+      "bad"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "root-7",
+    "category": "Root Words",
+    "question": "What does the root \"Luc, Lum, Lus\" mean?",
+    "options": [
+      "speak",
+      "mass, heap",
+      "clear",
+      "light,shine"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "root-8",
+    "category": "Root Words",
+    "question": "What does the root \"Cide\" mean?",
+    "options": [
+      "kill",
+      "hand",
+      "circle, ring",
+      "man, human"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "root-9",
+    "category": "Root Words",
+    "question": "What does the root \"Dem\" mean?",
+    "options": [
+      "people",
+      "too much, over, excessive, beyond",
+      "life",
+      "heart"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "root-10",
+    "category": "Root Words",
+    "question": "What does the root \"Funct\" mean?",
+    "options": [
+      "color",
+      "all",
+      "perform, work",
+      "write"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "root-11",
+    "category": "Root Words",
+    "question": "What does the root \"Gen\" mean?",
+    "options": [
+      "lead",
+      "work",
+      "place, put",
+      "race, kind, birth"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "root-12",
+    "category": "Root Words",
+    "question": "What does the root \"Mater, Matr\" mean?",
+    "options": [
+      "hidden, secret",
+      "mother",
+      "light,shine",
+      "fool"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-13",
+    "category": "Root Words",
+    "question": "What does the root \"Cognosc, Gnosi\" mean?",
+    "options": [
+      "group, flock, herd",
+      "know",
+      "call, voice",
+      "work"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-14",
+    "category": "Root Words",
+    "question": "What does the root \"Ante\" mean?",
+    "options": [
+      "government or system",
+      "before",
+      "see, watch",
+      "alive, life"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-15",
+    "category": "Root Words",
+    "question": "What does the root \"Pater, Patr\" mean?",
+    "options": [
+      "see",
+      "turn",
+      "father",
+      "down, against completely intensive according to"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "root-16",
+    "category": "Root Words",
+    "question": "What does the root \"Liber\" mean?",
+    "options": [
+      "kill",
+      "free",
+      "stand",
+      "against, opposite of"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-17",
+    "category": "Root Words",
+    "question": "What does the root \"Lex\" mean?",
+    "options": [
+      "bring, bear",
+      "work",
+      "word, law, reading",
+      "build"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "root-18",
+    "category": "Root Words",
+    "question": "What does the root \"Rog, Roga\" mean?",
+    "options": [
+      "different",
+      "ask, beg",
+      "study of something",
+      "change"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-19",
+    "category": "Root Words",
+    "question": "What does the root \"Bibl\" mean?",
+    "options": [
+      "light",
+      "book",
+      "lead",
+      "man"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-20",
+    "category": "Root Words",
+    "question": "What does the root \"Gnosi, Cognosc\" mean?",
+    "options": [
+      "light",
+      "too much, over, excessive, beyond",
+      "know",
+      "young"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "root-21",
+    "category": "Root Words",
+    "question": "What does the root \"Psych\" mean?",
+    "options": [
+      "place",
+      "mind",
+      "come",
+      "light"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-22",
+    "category": "Root Words",
+    "question": "What does the root \"Punct\" mean?",
+    "options": [
+      "fear",
+      "time",
+      "animal",
+      "point, dot"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "root-23",
+    "category": "Root Words",
+    "question": "What does the root \"Pan\" mean?",
+    "options": [
+      "bring, bear",
+      "all",
+      "life",
+      "hidden, secret"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-24",
+    "category": "Root Words",
+    "question": "What does the root \"Loc, Loco\" mean?",
+    "options": [
+      "measure",
+      "place",
+      "change",
+      "bad"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-25",
+    "category": "Root Words",
+    "question": "What does the root \"Rect\" mean?",
+    "options": [
+      "kill",
+      "straight, correct",
+      "circle, ring",
+      "tree"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-26",
+    "category": "Root Words",
+    "question": "What does the root \"Cious\" mean?",
+    "options": [
+      "hold",
+      "say, speak",
+      "tending to do something",
+      "water"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "root-27",
+    "category": "Root Words",
+    "question": "What does the root \"Cumul\" mean?",
+    "options": [
+      "work",
+      "mass, heap",
+      "remember",
+      "walk"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-28",
+    "category": "Root Words",
+    "question": "What does the root \"Mut\" mean?",
+    "options": [
+      "man, human",
+      "group, flock, herd",
+      "make",
+      "change"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "root-29",
+    "category": "Root Words",
+    "question": "What does the root \"Para\" mean?",
+    "options": [
+      "man, human",
+      "beside, alongside, position",
+      "good",
+      "god"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-30",
+    "category": "Root Words",
+    "question": "What does the root \"Ject\" mean?",
+    "options": [
+      "word, speech",
+      "free",
+      "throw",
+      "master"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "root-31",
+    "category": "Root Words",
+    "question": "What does the root \"Cor, Cour\" mean?",
+    "options": [
+      "write, draw",
+      "opposite, contrary, opposing",
+      "hang",
+      "heart"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "root-32",
+    "category": "Root Words",
+    "question": "What does the root \"Sat, Satis\" mean?",
+    "options": [
+      "kill",
+      "enough",
+      "water",
+      "word, law, reading"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-33",
+    "category": "Root Words",
+    "question": "What does the root \"Hyper\" mean?",
+    "options": [
+      "against, opposite of",
+      "too much, over, excessive, beyond",
+      "light",
+      "god or religion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-34",
+    "category": "Root Words",
+    "question": "What does the root \"Zo\" mean?",
+    "options": [
+      "carry",
+      "animal",
+      "water",
+      "ruler, first"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-35",
+    "category": "Root Words",
+    "question": "What does the root \"Aud, Aus\" mean?",
+    "options": [
+      "enough",
+      "hear, listen",
+      "tooth",
+      "year"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-36",
+    "category": "Root Words",
+    "question": "What does the root \"Somnia\" mean?",
+    "options": [
+      "sleep",
+      "book",
+      "around",
+      "see"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "root-37",
+    "category": "Root Words",
+    "question": "What does the root \"Loc\" mean?",
+    "options": [
+      "time",
+      "place",
+      "call, voice",
+      "too much, over, excessive, beyond"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-38",
+    "category": "Root Words",
+    "question": "What does the root \"Auto\" mean?",
+    "options": [
+      "wise",
+      "self, same, one",
+      "study of something",
+      "straight, correct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "root-39",
+    "category": "Root Words",
+    "question": "What does the root \"Crypto\" mean?",
+    "options": [
+      "hidden, secret",
+      "place, put",
+      "wise",
+      "blood"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "root-40",
+    "category": "Root Words",
+    "question": "What does the root \"Anthrop\" mean?",
+    "options": [
+      "around, about",
+      "new",
+      "fear or dislike",
+      "man, human"
+    ],
+    "answer": 3
+  }
+]
